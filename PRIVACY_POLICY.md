@@ -109,7 +109,7 @@ You have the right to:
 4. **Export Your Data** - Download your flashcards and study content
 5. **Opt-Out** - Disable analytics or push notifications
 
-To exercise these rights, contact us at [YOUR_EMAIL]
+To exercise these rights, contact us at jettkimray0990922@gmail.com
 
 ## Children's Privacy
 
@@ -140,19 +140,9 @@ We retain your information for as long as your account is active or as needed to
 
 If you have questions about this Privacy Policy or our data practices, please contact us:
 
-- **Email:** [YOUR_EMAIL]
+- **Email:** jettkimray090922@gmail.com
 - **App:** Use the in-app feedback feature
 
 ## Your Consent
 
 By using StudyLess, you consent to our collection and use of your information as described in this Privacy Policy.
-
----
-
-**Note to Developer:** Before launching publicly, please:
-1. Replace [YOUR_EMAIL] with your actual support email
-2. Have a lawyer review this policy
-3. Add your company name and address if applicable
-4. Update any specific details about your data practices
-5. Consider using a professional service like Termly or TermsFeed for legal compliance
-
