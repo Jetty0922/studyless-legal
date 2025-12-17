@@ -201,7 +201,7 @@ These Terms are governed by the laws of [YOUR_JURISDICTION], without regard to c
 
 ### Informal Resolution
 
-Before filing a claim, please contact us at [YOUR_EMAIL] to attempt to resolve the dispute informally.
+Before filing a claim, please contact us at jettkimray090922@gmail.com to attempt to resolve the dispute informally.
 
 ### Arbitration
 
@@ -229,21 +229,9 @@ You may not assign or transfer these Terms. We may assign our rights and obligat
 
 Questions about these Terms? Contact us:
 
-- **Email:** [YOUR_EMAIL]
+- **Email:** jettkimray090922@mgmail.com
 - **App:** Use the in-app feedback feature
 
 ## Acknowledgment
 
 By using StudyLess, you acknowledge that you have read, understood, and agree to be bound by these Terms of Service.
-
----
-
-**Note to Developer:** Before launching publicly, please:
-1. Replace [YOUR_EMAIL] with your actual support email
-2. Replace [YOUR_JURISDICTION] with your legal jurisdiction (e.g., "California, USA")
-3. Replace [ARBITRATION_RULES] with specific arbitration rules if applicable
-4. Have a lawyer review these terms
-5. Add your company name and address if applicable
-6. Consider using a professional legal service for compliance
-7. Update any specific details about your service offerings
-
